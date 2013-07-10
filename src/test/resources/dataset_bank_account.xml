@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<bankaccount id='1' account_number='123' description='savings 1' balance='100.0'/>
+</dataset>
